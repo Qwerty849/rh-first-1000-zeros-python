@@ -1,0 +1,32 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Local settings
+*.local
+*.log
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Temporary data
+*.tmp
+*.bak
+*.swp
