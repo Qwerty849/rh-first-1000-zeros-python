@@ -122,15 +122,6 @@ python scripts/zero_analysis_and_scaling.py --analyze data/zeros_1_to_1000_final
 Merge multiple certificate files:
 python scripts/merge_zero_certs.py --output merged.json zeros_*.json
 
-Authors
-
-Kristin Nicholson
-Chance Nicholson
-
-Both authors contributed to the methodology, numerical design,
-refinement system, and certification pipeline used to generate the
-final verified dataset of the first 1,000 nontrivial zeros of the
-Riemann zeta function.
 
 License
 
